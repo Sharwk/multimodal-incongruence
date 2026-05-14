@@ -1,7 +1,25 @@
+# Core ML
 torch
-transformers
+torchvision
+torchaudio
 scikit-learn
 numpy
-matplotlib
+pandas
+
+# Transformers and embeddings
+transformers
+sentence-transformers
+openai-whisper
+
+# Audio/video processing
+opencv-python
+moviepy
 librosa
-gdown
+
+# Demo
+gradio
+
+# Visualization and data
+matplotlib
+joblib
+pillow
